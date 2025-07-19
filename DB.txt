@@ -1,0 +1,19 @@
+create database population;
+use population;
+
+create table register(username varchar(50) primary key,
+password varchar(50),
+gender varchar(30),
+qualification varchar(50),
+contact varchar(12),
+email varchar(50),
+address varchar(80));
+
+
+
+
+
+
+
+
+
